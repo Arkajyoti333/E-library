@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+After cloning this repo [`git clone` ](https://github.com/Arkajyoti333/E-library.git).
+you must have 
+### `npm install`
+### `cd E-Library`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
